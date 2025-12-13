@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Profile<>. <br><br> 📁 DEV_PROFILE
+<p align="center"> Profile<>. <br><br> 📁 DEV_PROFILE
  ┣ 📂 Nick
  ┃ ┗ 📄 MALAK
  ┣ 📂 Linguagem
@@ -11,8 +11,7 @@
  ┃ ┗ 📄 SA-MP
  ┣ 📂 Includes
  ┃ ┗ 📄 M_professional_PRO.inc
- ┗ 📄 Developer
-</p>&nbsp;
+ ┗ 📄 Developer </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
