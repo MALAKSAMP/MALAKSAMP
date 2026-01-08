@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center"> Profile<>. <br><br> 📁 DEV_PROFILE
+ 📁 DEV_PROFILE
  ┣ 📂 Nick
  ┃ ┗ 📄 MALAK
  ┣ 📂 Linguagem
