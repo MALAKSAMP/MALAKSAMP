@@ -1,60 +1,54 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="portfolio.png" />
-&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img src="portfolio.png" style="object-fit:contain;" width="100%" />
+</p>
 
- 📁 DEV_PROFILE
- ┣ 📂 Name
- ┃ ┗ 📄 MALAK
- ┣ 📂 Linguagem
- ┃ ┗ 📄 Pawn
- ┣ 📂 Plataforma
- ┃ ┗ 📄 SA-MP
- ┣ 📂 Includes
- ┃ ┗ 📄 Modular_progaming.inc
- ┗ 📄 Developer
+                                                        📁 DEV_PROFILE  
+                                                        ┣ 📂 Name  
+                                                        ┃ ┗ 📄 MALAK  
+                                                        ┣ 📂 Linguagem  
+                                                        ┃ ┗ 📄 Pawn  
+                                                        ┣ 📂 Plataforma  
+                                                        ┃ ┗ 📄 SA-MP  
+                                                        ┣ 📂 Includes  
+                                                        ┃ ┗ 📄 Modular_programing.inc  
+                                                        ┗ 📄 Developer  
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<div align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+</div>
 
+## 🧠 Tecnologias
 
+### ♟️ Main Stack
 
-## My Skills
+![Git](https://img.shields.io/badge/🔧%20Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Pawn](https://img.shields.io/badge/♟️%20Pawn-Developer-red?style=for-the-badge)
 
-#### Main Stack:
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  width="400"
+  align="right"
+/>
 
+### 🗄️ Databases
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/🗄️%20MySQL-Database-orange?style=for-the-badge)
 
-![Pawn](https://img.shields.io/badge/Pawn-Developer-red?style=for-the-badge)
+### 🛠️ Workstation Tools
 
+![VSCode](https://img.shields.io/badge/🖊️%20VSCode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## 📞 Contacts
 
-#### Databases:
-
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge)
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.dw.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/@BoNNieClaws" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<div>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:contato.dw.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@BoNNieClaws" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
