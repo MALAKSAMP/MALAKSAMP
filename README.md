@@ -1,7 +1,6 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="portfolio.png" />
 &nbsp;&nbsp;&nbsp;
 
-
  📁 DEV_PROFILE
  ┣ 📂 Name
  ┃ ┗ 📄 MALAK
@@ -27,15 +26,17 @@
 
 #### Main Stack:
 
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+![Pawn](https://img.shields.io/badge/Pawn-Developer-red?style=for-the-badge)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge)
 
 #### Workstation Tools:
 
