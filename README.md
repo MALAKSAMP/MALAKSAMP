@@ -24,6 +24,8 @@
 
 ![Git](https://img.shields.io/badge/🔧%20Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Pawn](https://img.shields.io/badge/♟️%20Pawn-Developer-red?style=for-the-badge)
+![SA-MP Multiplayer](https://img.shields.io/badge/🎮%20SA--MP-Multiplayer-red?style=for-the-badge)
+![MALAK](https://img.shields.io/badge/👨‍💻%20MALAK-Developer-blue?style=for-the-badge)
 
 <img 
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
@@ -38,6 +40,8 @@
 ### 🛠️ Workstation Tools
 
 ![VSCode](https://img.shields.io/badge/🖊️%20VSCode-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/🛠️%20MySQL-Workbench-orange?style=for-the-badge)
+
 
 ## 📞 Contacts
 
