@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="thumb-1920-555367.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="portfolio.png" />
 &nbsp;&nbsp;&nbsp;
 
 
