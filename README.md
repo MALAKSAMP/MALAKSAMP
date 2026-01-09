@@ -13,10 +13,7 @@
                                                         ┃ ┗ 📄 Modular_programing.inc  
                                                         ┗ 📄 Developer  
 
-<div align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
-</div>
+
 
 ## 🧠 Tecnologias
 
